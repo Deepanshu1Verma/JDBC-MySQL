@@ -4,7 +4,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 import java.sql.ResultSet;
-import javax.swing.JOptionPane;
 
 import com.mysql.cj.jdbc.DatabaseMetaData;
 
